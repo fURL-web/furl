@@ -1,0 +1,3 @@
+[submodule "handl"]
+	path = handl
+	url = https://github.com/fURL-web/handl
